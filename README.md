@@ -27,7 +27,7 @@ The **Simon Game** is a simple memory-based color sequence game. A new color is 
 
 ### Live Demo
 
-- Check out the live game 👉: [Add live site URL here](https://your-live-site-url.com)
+- Check out the live game 👉: [Play Simon Game](https://jayajo5.github.io/Simon-Game-Challenge/)
 
 ## My process
 
