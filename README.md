@@ -23,7 +23,7 @@ The **Simon Game** is a simple memory-based color sequence game. A new color is 
 
 ### Screenshot
 
-![Screenshot of my Simon Game Challenge](image/ScreenShot.png)
+![Screenshot of my Simon Game Challenge](Image/ScreenShot.png)
 
 ### Live Demo
 
